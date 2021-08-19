@@ -1,0 +1,11 @@
+.portada{
+    background: rgb(238,146,100);
+    background: linear-gradient(0deg, rgba(157,155,155,1) 50%, rgba(238,146,100,1) 50%);
+}
+.bg-gas{
+    background: #83dde8;
+}
+.bg-gas-primary{
+    background: rgb(238,146,100);
+    border-radius: 0.5rem;
+}
