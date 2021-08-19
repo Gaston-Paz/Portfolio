@@ -3,7 +3,15 @@
     background: linear-gradient(0deg, rgba(157,155,155,1) 50%, rgba(238,146,100,1) 50%);
 }
 .bg-gas{
-    background: #83dde8;
+    background: #5ce1e6;
+}
+.bg-footer{
+    background: rgb(238,146,100);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.bg-prefooter{
+    background: rgba(157,155,155,1);
 }
 .bg-gas-primary{
     background: rgb(238,146,100);
@@ -12,4 +20,10 @@
 .p-gas{
     text-align: justify;
     font-size: 1.25rem;
+}
+.img-gas{
+    width: 45%;
+}
+.imgt-gas{
+    width: 30%;
 }
